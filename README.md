@@ -36,9 +36,9 @@
 ```
 
 
-#### 2.  Actualizar cambios en su repositorio
+#### 2.  Actualizar cambios en su repositorio *** update-repo.sh**
 
->> **Opcional**
+>> **Opcional: queda a criterio del programador**
 > 
 > Ya que es simple el procedimiento regular:
 > - git add.
