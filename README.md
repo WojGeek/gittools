@@ -45,6 +45,13 @@
 > - git commit -m "your comment"
 > - git push
 >
+
+> O más simple si gusta:
+> 
+>> ```git add README.md && git commit -m "Updated README" && git push ```
+>
+
+
 >> Sin embargo, hay caso que se requiere el token para **git push**
 >> y con el script simplifico esta tarea minimizando errores de tipeado.
 
