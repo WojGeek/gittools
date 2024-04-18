@@ -11,7 +11,7 @@ COMMENT='First Commit'
 WEBURL='github.com'
 
 # Token and account taken from .env
-source ~/my-git-tools/my_custom.env
+source ~/gittools/my_custom.env
 
 # repository name
 REPO=$1
