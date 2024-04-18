@@ -48,7 +48,9 @@
 
 > O más simple si gusta:
 > 
-``` git add README.md && git commit -m "Updated README" && git push 
+``` 
+git add README.md && git commit -m "Updated README" && git push 
+
 ```
 >
 
