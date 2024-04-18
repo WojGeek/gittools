@@ -20,9 +20,10 @@
 > - Declarar dos variables de entorno 
 > 
 >>   MY_TOKEN="jysh_7132kasasTOKEN"
+>
 >>   GITHUB_ACCOUNT="your-username"
 >
->   en el archivo **my_custom.env**  en  el directorio clonado: **gittools**
+>   en el archivo **my_custom.env**  del directorio clonado: **gittools**
 >
 >
 
@@ -39,13 +40,13 @@
 
 >> **Opcional**
 > 
-> ya que usualmente podria como de costumbre
+> Ya que es simple el procedimiento regular:
 > - git add.
 > - git commit -m "your comment"
 > - git push
 >
 >> Sin embargo, hay caso que se requiere el token para **git push**
->
+>> y con el script simplifico esta tarea minimizando errores de tipeado.
 
 ```
      $   ~/gittools/update-repo.sh   repository
