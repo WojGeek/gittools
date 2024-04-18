@@ -36,7 +36,7 @@
 ```
 
 
-#### 2.  Actualizar cambios en su repositorio *** update-repo.sh**
+#### 2.  Actualizar cambios en su repositorio **update-repo.sh**
 
 >> **Opcional: queda a criterio del programador**
 > 
