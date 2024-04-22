@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #  Facilitar la creación de un repositorio en Github
 #           17.4.2024, 17h49
